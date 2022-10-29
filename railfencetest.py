@@ -1,6 +1,3 @@
-import math
-
-
 def encrypt(key, temp_string):
     temp = []
     temp_num = 0
