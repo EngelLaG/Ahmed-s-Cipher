@@ -39,7 +39,7 @@ def decrypt(key, temp_string):
     return ende
 
 
-text = input('Messge to be Decrypted: ')
+text = input('Message to be Decrypted: ')
 key = int(input('your Decryption Key: '))
 cipheredtext= encrypt(key, text)
 decryptedtext = decrypt(key, cipheredtext)
