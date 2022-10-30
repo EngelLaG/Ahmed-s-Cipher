@@ -40,7 +40,7 @@ def decrypt(key, temp_string):
 
 
 text = input('Message to be Decrypted: ')
-key = int(input('your Decryption Key: '))
+key = int(input('Your Encryption Key: '))
 cipheredtext= encrypt(key, text)
 decryptedtext = decrypt(key, cipheredtext)
 print(f'Cipheredtext: {cipheredtext}')
