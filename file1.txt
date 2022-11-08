@@ -1,4 +1,4 @@
-Hello
-Cipher this
-cipher that
-Chiper 123!
+Hello This will be tested
+Testing with number12345
+Testing with characters@#%^
+Finished

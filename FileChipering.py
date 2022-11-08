@@ -50,5 +50,6 @@ def decrypt_tff(file_name):
     file1.writelines(decrypt_lines)
     file1.close()
 
-encrypt_tff("file1.txt")
+
 decrypt_tff("file1.txt")
+
